@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Imran 👋
 
-<!--
-**ImranAdan/ImranAdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Engineer | Platform Engineering | SRE**
 
-Here are some ideas to get you started:
+I design and build infrastructure and software delivery systems with a focus on reliability, automation, and verifiable change.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** Distributed systems, autonomous engineering, declarative infrastructure, and policy-driven delivery.
+
+## Projects
+
+- [Infra Fleet](https://github.com/ImranAdan/infra-fleet-public) — Reusable infrastructure platform for reliable application delivery.
+- [Infra Fleet Advisor](https://github.com/ImranAdan/infra-fleet-advisor-public) — Evidence-based infrastructure evaluation and change workflows.
+- [Mandate](https://github.com/ImranAdan/mandate-delegation) — Explicit authority and verification boundaries for autonomous changes.
